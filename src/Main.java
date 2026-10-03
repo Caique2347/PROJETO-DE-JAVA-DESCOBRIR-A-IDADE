@@ -8,6 +8,8 @@ void main() {
         System.out.println("Criança");
     } else if (idade <= 17) {
         System.out.println("Adolecente");
+    } else{
+        System.out.println("Adolecente");
     }
 }
 
